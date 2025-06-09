@@ -1,2 +1,2 @@
-# Task Manager app
+# Task Manager App
 A task manager application using JavaScript.⚙️
